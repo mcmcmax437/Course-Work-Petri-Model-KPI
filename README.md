@@ -1,0 +1,1 @@
+To open .pns file you should download this repository https://github.com/StetsenkoInna/PetriObjModelPaint and open it in Apache NetBeans IDE. Then run TestPetriNetsPaints or TestPetriObjSimulation this will open system for simulation (some sort of application where you will be able to open .pns file)
